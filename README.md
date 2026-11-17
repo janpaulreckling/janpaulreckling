@@ -1,6 +1,8 @@
 ## Hi, I'm Jan Paul 👋
 
-**Data & Business Analyst.** I build back-office automation and the dashboards that sit on top of it.
+**Data & Business Systems Analyst in New York.** I turn CRM, ERP and payment data into answers about cash: who pays late, where orders get stuck, and whether the books tie out.
+
+M.S. Information Systems (Data Analytics) at Baruch College, CUNY, May 2027. Before that: payments analytics at Flatpay, business systems at Gistable, accounting and controlling at DHL.
 
 My portfolio follows one fictional company, **Northwind Outfitters**, an outdoor retailer, from a won deal to cash in the bank. Everything runs against real systems: a Salesforce org, an ERP, and payment and bank test data.
 
@@ -9,6 +11,6 @@ My portfolio follows one fictional company, **Northwind Outfitters**, an outdoor
 | [**From won deal to paid invoice**](https://github.com/janpaulreckling/order-to-cash-sync) | When a deal is won in Salesforce, the order and invoice are created in the ERP automatically, and the sales team sees when the customer has paid. | [Live dashboard](https://janpaulreckling.github.io/order-to-cash-sync/dashboard/) |
 | [**From payment to closed books**](https://github.com/janpaulreckling/cash-reconciliation-engine) | Matches card payouts and bank deposits to invoices, so only the real exceptions need a person. | [Live demo](https://northwind-cash-recon.streamlit.app) |
 
-**Tools:** SQL · Python · Salesforce · ERP (Odoo) · DuckDB · dashboards · GitHub Actions
+**Tools:** SQL · Python · dbt · DuckDB · Tableau · Power BI · Salesforce · NetSuite · Odoo · GitHub Actions
 
-→ **[See the portfolio](https://janpaulreckling.github.io)** · [LinkedIn](https://www.linkedin.com/in/jan-paul-reckling-9b7b6126b/)
+→ **[See the portfolio](https://janpaulreckling.github.io)** · [LinkedIn](https://www.linkedin.com/in/janpaulreckling/)
