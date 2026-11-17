@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Jan Paul Reckling, Data and Business Systems Analyst in New York">
+  <rect x="1" y="1" width="1198" height="318" rx="20" fill="#fcfcfb" stroke="#e3e2dd" stroke-width="2"/>
+  <rect x="56" y="62" width="40" height="5" rx="2.5" fill="#2a78d6"/>
+  <text x="56" y="100" font-size="15" font-weight="600" letter-spacing="2" fill="#52514e">DATA &amp; BUSINESS SYSTEMS ANALYST · NEW YORK</text>
+  <text x="54" y="160" font-size="54" font-weight="700" letter-spacing="-1" fill="#0b0b0b">Jan Paul Reckling</text>
+  <text x="56" y="206" font-size="22" fill="#52514e">I turn CRM, ERP, payment and product data</text>
+  <text x="56" y="236" font-size="22" fill="#52514e">into decisions you can check.</text>
+  <text x="56" y="282" font-size="15" fill="#898781">M.S. Information Systems (Data Analytics) · Baruch College, CUNY · 2027</text>
+    <rect x="744" y="70" width="400" height="60" rx="12" fill="#e8f0fb"/>
+    <circle cx="776" cy="100" r="15" fill="#2a78d6"/>
+    <text x="776" y="105" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">1</text>
+    <text x="804" y="97" font-size="18" font-weight="650" fill="#0b0b0b">Won deal → paid invoice</text>
+    <text x="804" y="118" font-size="13.5" fill="#52514e">Salesforce · ERP · sync rules</text>
+    <rect x="744" y="142" width="400" height="60" rx="12" fill="#e8f0fb"/>
+    <circle cx="776" cy="172" r="15" fill="#2a78d6"/>
+    <text x="776" y="177" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">2</text>
+    <text x="804" y="169" font-size="18" font-weight="650" fill="#0b0b0b">Payment → closed books</text>
+    <text x="804" y="190" font-size="13.5" fill="#52514e">Stripe · bank data · matching</text>
+    <rect x="744" y="214" width="400" height="60" rx="12" fill="#e8f0fb"/>
+    <circle cx="776" cy="244" r="15" fill="#2a78d6"/>
+    <text x="776" y="249" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">3</text>
+    <text x="804" y="241" font-size="18" font-weight="650" fill="#0b0b0b">Metric drop → decision</text>
+    <text x="804" y="262" font-size="13.5" fill="#52514e">Product analytics · A/B tests</text>
+</svg>
