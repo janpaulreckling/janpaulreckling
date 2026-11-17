@@ -7,7 +7,7 @@ My portfolio follows one fictional company, **Northwind Outfitters**, an outdoor
 | Project | What it does | |
 |---|---|---|
 | [**From won deal to paid invoice**](https://github.com/janpaulreckling/order-to-cash-sync) | When a deal is won in Salesforce, the order and invoice are created in the ERP automatically, and the sales team sees when the customer has paid. | [Live dashboard](https://janpaulreckling.github.io/order-to-cash-sync/dashboard/) |
-| **From payment to closed books** | Matches card payouts and bank deposits to invoices, so only the real exceptions need a person. | Coming December 2026 |
+| [**From payment to closed books**](https://github.com/janpaulreckling/cash-reconciliation-engine) | Matches card payouts and bank deposits to invoices, so only the real exceptions need a person. | [Live demo](https://northwind-cash-recon.streamlit.app) |
 
 **Tools:** SQL · Python · Salesforce · ERP (Odoo) · DuckDB · dashboards · GitHub Actions
 
