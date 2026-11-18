@@ -34,7 +34,7 @@ My portfolio follows one fictional company, **Northwind Outfitters**, an outdoor
       <i>Why did activation drop, and should we ship?</i>
       <p>Detects metric drops, explains them with checkable evidence and judges A/B tests.</p>
       <p><b>3 of 3</b> injected problems found, <b>4 of 4</b> test verdicts right (synthetic data)</p>
-      <a href="https://janpaulreckling.github.io/flowpilot/">Live demo</a> · <a href="https://janpaulreckling.github.io/flowpilot/case-study">Case study</a> · <a href="https://github.com/janpaulreckling/flowpilot">Code</a>
+      <a href="https://janpaulreckling.github.io/flowpilot/">Live demo</a> · <a href="https://janpaulreckling.github.io/flowpilot/case-study/">Case study</a> · <a href="https://github.com/janpaulreckling/flowpilot">Code</a>
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@ My portfolio follows one fictional company, **Northwind Outfitters**, an outdoor
 ### Where to start
 
 - **1 minute:** the [portfolio site](https://janpaulreckling.github.io)
-- **2 minutes:** the [FlowPilot case study](https://janpaulreckling.github.io/flowpilot/case-study)
+- **2 minutes:** the [FlowPilot case study](https://janpaulreckling.github.io/flowpilot/case-study/)
 - **5 minutes:** click through the [dashboard](https://janpaulreckling.github.io/order-to-cash-sync/dashboard/), the [reconciliation app](https://northwind-cash-recon.streamlit.app) and the [FlowPilot demo](https://janpaulreckling.github.io/flowpilot/)
 
 ### About me
