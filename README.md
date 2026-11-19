@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://janpaulreckling.github.io"><b>Portfolio</b></a> ·
-  <a href="https://www.linkedin.com/in/janpaulreckling/"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/janpaulreckling/"><b>LinkedIn</b></a> ·
+  <a href="mailto:recklingjan@gmail.com"><b>recklingjan@gmail.com</b></a>
 </p>
 
 My portfolio follows one fictional company, **Northwind Outfitters**, an outdoor retailer, from a won deal to cash in the bank. Those projects run against real systems: a Salesforce org, an ERP, and payment and bank test data. A third project moves to product analytics on synthetic data. Every result below is measured on the project's own data.
